@@ -1,2 +1,2 @@
 # map-cluster
-crime map of Chicago displayed in clusters
+2012 crime map of Chicago displayed in clusters
